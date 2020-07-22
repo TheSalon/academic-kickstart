@@ -1,11 +1,12 @@
 ---
 title: "On the Structure, Covering, and Learning of Poisson Multinomial Distributions"
-date: 2015-01-01
-publishDate: 2020-07-21T23:49:01.823928Z
+date: 2015-10-01
+publishDate: 2020-07-22T04:40:49.217452Z
 authors: ["Constantinos Daskalakis", "Gautam Kamath", "Christos Tzamos"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 56th Annual IEEE Symposium on Foundations of Computer Science*"
+publication: "*Proceedings of the 56th Annual IEEE Symposium on Foundations of Computer Science* (FOCS 2015)"
+url_pdf: "https://arxiv.org/abs/1504.08363"
 ---
 

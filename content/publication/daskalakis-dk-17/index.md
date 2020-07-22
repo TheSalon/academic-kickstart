@@ -1,11 +1,12 @@
 ---
 title: "Concentration of Multilinear Functions of the Ising Model with Applications to Network Data"
-date: 2017-01-01
-publishDate: 2020-07-21T23:49:01.822780Z
+date: 2017-12-01
+publishDate: 2020-07-22T04:40:49.216007Z
 authors: ["Constantinos Daskalakis", "Nishanth Dikkala", "Gautam Kamath"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Advances in Neural Information Processing Systems 30*"
+publication: "*Advances in Neural Information Processing Systems 30* (NIPS 2017)"
+url_pdf: "https://arxiv.org/abs/1710.04170"
 ---
 
