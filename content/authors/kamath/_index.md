@@ -70,8 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- The Host
 ---
 
 Gautam Kamath is an assistant professor at University of Waterloo's Cheriton School of Computer Science. His research interests include statistics and machine learning, with a focus on settings which are common in modern data analysis, including privacy, robustness, and high-dimensional data. He leads The Salon, which studies Statistics, Algorithms, Learning, and Optimization.
