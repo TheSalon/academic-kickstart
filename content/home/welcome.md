@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-The Salon is a lab dedicated to the study of Statistics, Algorithms, Learning, and OptimizatioN. It is led by Professor [Gautam Kamath](http://www.gautamkamath.com/) at the Cheriton School of Computer Science at the University of Waterloo. Current emphases of the lab include enriching our understanding of data privacy and robustness in statistics and machine learning.
+The Salon is a lab dedicated to the study of Statistics, Algorithms, Learning, and OptimizatioN. It is led by Professor [Gautam Kamath](http://www.gautamkamath.com/) at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/). Current emphases of the lab include enriching our understanding of data privacy and robustness in statistics and machine learning.
 
-The name of The Salon is in reference to the [French tradition](https://en.wikipedia.org/wiki/Salon_(gathering)) from the 17th and 18th centuries, a central venue for exchange of some of the most important ideas of the era.
+The name of The Salon is in reference to the [French practice](https://en.wikipedia.org/wiki/Salon_(gathering)) from the 17th and 18th centuries, a central venue for exchange of some of the most important ideas of the era.
