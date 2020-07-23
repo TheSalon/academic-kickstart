@@ -10,6 +10,8 @@ weight = 30  # Order that this section will appear.
 title = "Recent Publications"
 subtitle = ""
 
+columns = "1"
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
