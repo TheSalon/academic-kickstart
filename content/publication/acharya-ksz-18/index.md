@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 35th International Conference on Machine Learning* (ICML 2018)"
 url_pdf: "https://arxiv.org/abs/1803.00008"
+
+url_code : "https://github.com/HuanyuZhang/INSPECTRE"
+url_video : "https://vimeo.com/295742619"
 ---
 

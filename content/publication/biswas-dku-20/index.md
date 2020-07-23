@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:2006.06618*"
 url_pdf: "https://arxiv.org/abs/2006.06618"
+
+url_code : "https://github.com/twistedcubic/coin-press"
+url_video : ""
 ---
 

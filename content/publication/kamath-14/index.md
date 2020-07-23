@@ -7,6 +7,6 @@ publication_types: ["7"]
 abstract: ""
 featured: false
 publication: ""
-url_pdf: "http://www.gautamkamath.com/phdthesis.pdf"
+url_pdf: "http://www.gautamkamath.com/smthesis.pdf"
 ---
 

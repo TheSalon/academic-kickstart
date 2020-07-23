@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 31st Annual Conference on Learning Theory* (COLT 2018)"
 url_pdf: "https://arxiv.org/abs/1802.07229"
+
+url_code : ""
+url_video : "https://www.youtube.com/watch?v=LtJh8unV2VQ"
 ---
 

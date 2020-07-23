@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 51st Annual ACM Symposium on the Theory of Computing* (STOC 2019)"
 url_pdf: "https://arxiv.org/abs/1811.11148"
+
+url_code : ""
+url_video : "https://www.youtube.com/watch?v=xrx2HKqcoV8"
 ---
 

@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 27th Annual Conference on Learning Theory* (COLT 2014)"
 url_pdf: "https://arxiv.org/abs/1312.1054"
+
+url_code : ""
+url_video : "http://videolectures.net/colt2014_kamath_gaussians/"
 ---
 

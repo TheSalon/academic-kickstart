@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 34th International Conference on Machine Learning* (ICML 2017)"
 url_pdf: "https://arxiv.org/abs/1703.10127"
+
+url_code : "https://github.com/hoonose/privit"
+url_video : "https://vimeo.com/240679051"
 ---
 

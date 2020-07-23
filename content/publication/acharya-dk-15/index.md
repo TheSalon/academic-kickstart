@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems 28* (NIPS 2015)"
 url_pdf: "https://arxiv.org/abs/1507.05952"
+
+url_code : ""
+url_video : "https://www.youtube.com/watch?v=syH1sBr2HRc"
 ---
 

@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:2002.12321*"
 url_pdf: "https://arxiv.org/abs/2002.12321"
+
+url_code : "https://github.com/wanrongz/PAPRIKA"
+url_video : ""
 ---
 

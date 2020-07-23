@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Advances in Neural Information Processing Systems 30* (NIPS 2017)"
 url_pdf: "https://arxiv.org/abs/1710.04170"
+
+url_code : "https://github.com/hoonose/multilinear-ising"
+url_video : "https://www.youtube.com/watch?v=HKsv2kT6wBM"
 ---
 

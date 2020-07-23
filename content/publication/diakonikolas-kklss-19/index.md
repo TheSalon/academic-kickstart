@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 36th International Conference on Machine Learning* (ICML 2019)"
 url_pdf: "https://arxiv.org/abs/1803.02815"
+
+url_code : "https://github.com/hoonose/sever"
+url_video : "https://www.youtube.com/watch?v=zbhQijVlGxg"
 ---
 

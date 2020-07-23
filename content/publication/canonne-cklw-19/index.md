@@ -8,5 +8,7 @@ abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:1911.07357*"
 url_pdf: "https://arxiv.org/abs/1911.07357"
+
+url_video: "https://www.youtube.com/watch?v=2W04Jel_PQA"
 ---
 

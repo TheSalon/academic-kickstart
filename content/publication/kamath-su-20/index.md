@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 33rd Annual Conference on Learning Theory* (COLT 2020)"
 url_pdf: "https://arxiv.org/abs/2002.09464"
+
+url_code : ""
+url_video : "https://www.colt2020.org/virtual/papers/paper_6.html"
 ---
 

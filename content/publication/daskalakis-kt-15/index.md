@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 56th Annual IEEE Symposium on Foundations of Computer Science* (FOCS 2015)"
 url_pdf: "https://arxiv.org/abs/1504.08363"
+
+url_code : ""
+url_video : "http://techtalks.tv/talks/on-the-structure-covering-and-learning-of-poisson-multinomial-distributions/62070/"
 ---
 
