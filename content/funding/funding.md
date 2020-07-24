@@ -24,7 +24,7 @@ Funding and support is graciously provided by the following sources.
 </div>
 
 <div style="clear: left;">
-  <p style="float: left;margin-right: 2.5em;"><img src="ComputeCanada.jpg" alt="Compute Canada logo" width="200px" border="1px"/></p> <br>
+  <p style="float: left;margin-right: 2.5em;"><img src="ComputeCanada.jpg" alt="Compute Canada logo" width="200px" border="1px"/></p>
   <p> Compute Canada <br>
       Resources for Research Groups (with Xi He)  <br>
       (April 2020 - Present)  </p>
@@ -32,7 +32,7 @@ Funding and support is graciously provided by the following sources.
 
 
 <div style="clear: left;">
-  <p style="float: left;margin-right: 2.5em;"><img src="Waterloo.jpg" alt="University of Waterloo SCS logo" width="200px" border="1px"/></p> <br>
+  <p style="float: left;margin-right: 2.5em;"><img src="Waterloo.jpg" alt="University of Waterloo SCS logo" width="200px" border="1px"/></p> 
   <p> University of Waterloo Cheriton School of Computer Science <br>
       Startup Grant <br> 
       (July 2019 - Present)  </p>
