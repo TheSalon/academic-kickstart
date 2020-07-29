@@ -57,4 +57,4 @@ user_groups:
 - Graduate Researchers
 ---
 
-Christian Covington is a student in the MMath Computer Science program at University of Waterloo's Cheriton School of Computer Science, co-advised with Xi He. His research interests include statistical validity in adaptive data analysis settings and statistical data privacy.
+Christian Covington is an incoming student in the MMath Computer Science program at University of Waterloo's Cheriton School of Computer Science, co-advised with Xi He. His research interests include statistical validity in adaptive data analysis settings and statistical data privacy.

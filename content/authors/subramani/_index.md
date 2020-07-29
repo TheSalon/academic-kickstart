@@ -70,4 +70,4 @@ user_groups:
 - Affiliated Researchers
 ---
 
-Pranav Subramani is a recent graduate from the University Of Waterloo in Computer Science and Combinatorics and Optimization. His focus is on probabilistic programming, Bayesian inference and is interested in differential privacy and adversarial robustness.
+Pranav Subramani is a recent graduate from the University Of Waterloo in Computer Science and Combinatorics and Optimization. His focus is on probabilistic programming and Bayesian inference, and he is interested in differential privacy and adversarial robustness.
