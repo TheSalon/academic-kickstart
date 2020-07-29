@@ -7,7 +7,7 @@ authors:
 - biswas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: BCS and BBA Dual Degree Student
@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Computer Science
+  - course: BCS in Computer Science
     institution: University of Waterloo
     year: 2022 (Expected)
-  - course: Bachelor of Business Administration
+  - course: BBA in Business Administration
     institution: Wilfrid Laurier University
     year: 2022 (Expected)
 
