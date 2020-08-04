@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Computer Engineering, Minor in Mathematics
+  - course: BS in Computer Engineering
     institution: Sharif University of Technology
     year: 2020
 
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mahbod.majid@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:m2majid@uwaterloo.ca'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
